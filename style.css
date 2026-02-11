@@ -1,0 +1,54 @@
+.name{
+    color: purple;
+    text-align: center;
+}
+.button{
+    position: fixed;
+    text-align: center;
+}
+#pic{
+    width: 20%;
+    height: 20%;
+    border-radius: 70%;
+    display: flex;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    margin: 50px auto;
+}
+#int{
+    background-image: linear-gradient(to right,skyblue,white);
+    font-size: large;
+     border-radius: 10%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    margin: 50px auto;
+    width: 60%;
+    text-align: center;
+}
+.edu-card{
+    border-radius: 10%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    margin: 50px auto;
+    width: 60%;
+    text-align: center;
+}
+.card{
+   background-image: linear-gradient(to right,skyblue,white);
+     border-radius: 10%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    margin: 50px auto;
+    width: 60%;
+    text-align: center;
+} 
+.int-card{
+    background-image: linear-gradient(to right,skyblue,white);
+    margin: 10% top,50% autp;
+    border-radius: 10%;
+    width: 60%;
+    box-shadow: o 4px 8px rgba(0,0,0,0,2);
+}
+.con{
+      border-radius: 10%;
+    box-shadow: 0 4px 8px rgba(0,0,0,0,2);
+    margin: 50px auto;
+    width: 60%;
+    text-align: center;
+}
